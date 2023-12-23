@@ -9,4 +9,4 @@ I'm learning data science bootcamp. There are 10 sprints in the program.
 - Data Transformation
 - Data Visualization
 
-## Second
+## Second part of the program
